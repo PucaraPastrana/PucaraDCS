@@ -15,9 +15,9 @@ Livery welcome the community livery!!!
 
 TUTORIAL see pdf
 
-Version 0.0.2.b 
-FIX FLAPS INDICATOR
-CORRECTION OF BRAKING VALUES
+## Version 0.0.2.b 
+-FIX FLAPS INDICATOR
+-CORRECTION OF BRAKING VALUES
 
 
 ## FIRST Version 0.0.1.b - 04 JULY 2021
