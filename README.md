@@ -8,8 +8,7 @@ Keep in mind that the EFM system has its shortcomings, taking it to SFM is not i
 
 For handling see attached tutorial pdf
 
-3D CopyRight by Pastrana
-Texture CopyRight by Pastrana
+
 
 Livery welcome the community livery!!!
 
