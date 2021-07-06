@@ -4,7 +4,7 @@ This is a free, open source, SFM, PUCARA independent module for DCS World. By in
 
 The development is in a very early stage, but the author has decided on releasing it in hopes it will help others on the implementation of modern aircraft systems using SFM.(problem stall, radio, landing takeoff offtrack, etc.)
 
-Keep in mind that the EFM system has its shortcomings, taking it to SFM is not in my knowledge at the moment, if someone from the community wants to do it, they are welcome.
+Keep in mind that the SFM system has its shortcomings, taking it to EFM is not in my knowledge at the moment, if someone from the community wants to do it, they are welcome.
 
 For handling see attached tutorial pdf
 
