@@ -13,6 +13,20 @@ https://www.patreon.com/pucarabypastrana
 
 Livery welcome the community livery!!!
 
+PATREON
+Collaboration is welcome, and helps us to continue developing it.
+https://www.patreon.com/pucarabypastrana
+
+VERSION 0.0.4.b HOT FIX
+FIX RUDDER ANIMATION DIRECTION
+FIX PROPELER ANIMATION 
+NEW RETICULE REAL GUNSIGHT PUCARA
+ADD LIVERY 3ra Brigada A-518 Desertico BY MAX
+ADD LIVERY 3ra Brigada A-527 BY MAX
+ADD LIVERY 3ra Brigada A-585 Clean BY MAX
+NEW UPDATE COMING SOON 
+
+
 TUTORIAL see pdf
 ## FIRST Version 0.0.3.b 
 ADD JETTISSON FOR STATION SELECT (VIEW MANUAL)
