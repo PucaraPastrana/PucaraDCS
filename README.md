@@ -23,6 +23,9 @@ Collaboration is welcome, and helps us to continue developing it.
 https://www.patreon.com/pucarabypastrana
 
 
+VERSION 0.12 
+FIX START ENGINE
+
 ## With much effort I present version 0.1b
 VERSION 0.1 AUGUST 2021
 ADD RAIN CANOPY
